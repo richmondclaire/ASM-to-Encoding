@@ -1,0 +1,8 @@
+Code written by Professor Kelly Shaw 
+Augmented by Grace Ann Robertson and Megan Doran
+Last updated: 10/15/2020
+
+Compiling instructions: run "make" in the lab 5 directory with all necessary files
+Running instructions: run "./ASM myASM.asm" with the myASM.asm being the file you want to convert from asm to binary
+
+Built for c++ in a linux system environment. 
